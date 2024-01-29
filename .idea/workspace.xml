@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6e83741-0c26-4b3c-94e3-14a42ad4a461" name="Changes" comment="" />
+    <list default="true" id="d6e83741-0c26-4b3c-94e3-14a42ad4a461" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/hw003/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/hw003/ShopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/hw003/customException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gb/hw003/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gb/hw003/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gb/hw003/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gb/hw003/Product.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2be0qQn9zInKb6bAi4vABKYPrjG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +42,26 @@
     "onboarding.tips.debug.path": "D:/Dev/JavaCore/lessons3/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hw003.ShopApp" />
+      <module name="lessons3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hw003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShopApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

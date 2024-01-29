@@ -1,0 +1,5 @@
+Order{customer=Alice, product=Laptop, quantity=1}
+Order{customer=Bob, product=Smartphone, quantity=2}
+Order{customer=Jack, product=Tablet, quantity=4}
+Order{customer=Bob, product=Smartphone, quantity=7}
+Order{customer=Jack, product=Smartphone, quantity=9}
